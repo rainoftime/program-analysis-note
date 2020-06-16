@@ -16,6 +16,8 @@
    - =BAP=: Binary Analysis Platform. Written in OCaml. We can inspect
      customize IR =BIL= to analyze different binary.
    - =Angr=: Binary Analysis and Symbolic Exectuion
+   - =WALA=: T.J. Watson Libraries for Analysis
+
 
 ** Project
 
@@ -176,6 +178,8 @@
      - [[http://spinroot.com/spin/whatispin.html][spin]]: Model Checker for multi-thread software
      - [[https://github.com/javapathfinder/jpf-core][Java Path Finder]]: JPF is an extensible software analysis framework for Java bytecode.
 
+
+
 ** Security
 
    - Safety
@@ -197,6 +201,7 @@
     - [[https://theory.stanford.edu/~nikolaj/programmingz3.html][Programming Z3]]
     - [[https://www.ics.uci.edu/%7Edechter/courses/ics-275a/winter-2016/readings/SATHandbook-CDCL.pdf][SAT Handbook]]
     - *The Calculus of Computation*: All about SMT fundamental.
+    - *Decision Procedures: An Algorithmic Point of View*
 
 *** Abstract Machine
 
